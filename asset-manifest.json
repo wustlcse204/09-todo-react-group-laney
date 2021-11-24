@@ -1,13 +1,13 @@
 {
-  "main.css": "/09-todo-react-lilching/static/css/main.1af24ae9.chunk.css",
-  "main.js": "/09-todo-react-lilching/static/js/main.0c33815a.chunk.js",
-  "main.js.map": "/09-todo-react-lilching/static/js/main.0c33815a.chunk.js.map",
-  "static/js/1.0cdd6f18.chunk.js": "/09-todo-react-lilching/static/js/1.0cdd6f18.chunk.js",
-  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-react-lilching/static/js/1.0cdd6f18.chunk.js.map",
-  "runtime~main.js": "/09-todo-react-lilching/static/js/runtime~main.dbe9cedc.js",
-  "runtime~main.js.map": "/09-todo-react-lilching/static/js/runtime~main.dbe9cedc.js.map",
-  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-react-lilching/static/css/main.1af24ae9.chunk.css.map",
-  "index.html": "/09-todo-react-lilching/index.html",
-  "precache-manifest.5868c84063dae377dd4a5f0b98939d1c.js": "/09-todo-react-lilching/precache-manifest.5868c84063dae377dd4a5f0b98939d1c.js",
-  "service-worker.js": "/09-todo-react-lilching/service-worker.js"
+  "main.css": "/09-todo-group-laney/static/css/main.1af24ae9.chunk.css",
+  "main.js": "/09-todo-group-laney/static/js/main.0c33815a.chunk.js",
+  "main.js.map": "/09-todo-group-laney/static/js/main.0c33815a.chunk.js.map",
+  "static/js/1.0cdd6f18.chunk.js": "/09-todo-group-laney/static/js/1.0cdd6f18.chunk.js",
+  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-group-laney/static/js/1.0cdd6f18.chunk.js.map",
+  "runtime~main.js": "/09-todo-group-laney/static/js/runtime~main.37a4ff19.js",
+  "runtime~main.js.map": "/09-todo-group-laney/static/js/runtime~main.37a4ff19.js.map",
+  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-group-laney/static/css/main.1af24ae9.chunk.css.map",
+  "index.html": "/09-todo-group-laney/index.html",
+  "precache-manifest.3e5cfa87a588933dc9f7ad260af3baeb.js": "/09-todo-group-laney/precache-manifest.3e5cfa87a588933dc9f7ad260af3baeb.js",
+  "service-worker.js": "/09-todo-group-laney/service-worker.js"
 }
