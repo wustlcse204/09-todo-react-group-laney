@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5fe4ec17246dca231b3f",
+    "revision": "76caa0562d2175204f88",
     "url": "/09-todo-react-group-laney/static/css/main.50246371.chunk.css"
   },
   {
-    "revision": "5fe4ec17246dca231b3f",
-    "url": "/09-todo-react-group-laney/static/js/main.5fe4ec17.chunk.js"
+    "revision": "76caa0562d2175204f88",
+    "url": "/09-todo-react-group-laney/static/js/main.76caa056.chunk.js"
   },
   {
     "revision": "3da870a3c1c4b41662f2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/09-todo-react-group-laney/static/js/runtime~main.5a192ae6.js"
   },
   {
-    "revision": "f794db4f7135bf5aabd81a58f79f0615",
+    "revision": "02ae4302d679796f2829258585fa80f7",
     "url": "/09-todo-react-group-laney/index.html"
   }
 ];
